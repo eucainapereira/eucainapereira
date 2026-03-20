@@ -15,8 +15,8 @@
 ```yaml
 nome:        "Cainã Pereira"
 localização: "Porto Seguro, BA — Brasil 🇧🇷"
-foco:        ["Cloud Computing", "DevOps", "Infraestrutura como Código"]
-aprendendo:  ["Kubernetes", "CI/CD", "Terraform"]
+foco:        ["Segurança da Informação", "Segurança em Cloud", "DevSecOps"]
+aprendendo:  ["AWS", "Cloud Computing", "Linux", "Redes", "Segurança em Cloud", "IAM (Controle de Acesso)", "Git e GitHub"]
 contato:     "linkedin.com/in/eucainapereira"
 ```
 
