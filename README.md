@@ -16,7 +16,7 @@
 nome:        "Cainã Pereira"
 localização: "Porto Seguro, BA — Brasil 🇧🇷"
 foco:        ["Segurança da Informação", "Segurança em Cloud", "DevSecOps"]
-aprendendo:  ["AWS", "Cloud Computing", "Linux", "Redes", "Segurança em Cloud", "IAM (Controle de Acesso)", "Git e GitHub"]
+aprendendo:  ["AWS (Cloud Practitioner)", "IA aplicada ao desenvolvimento e à automação", "Git e GitHub"]
 contato:     "linkedin.com/in/eucainapereira"
 ```
 
@@ -26,14 +26,44 @@ contato:     "linkedin.com/in/eucainapereira"
 
 <div align="center">
 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-FF6F00?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+![FTP](https://img.shields.io/badge/FTP-FF6600?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+  <a href="https://www.credly.com/badges/2f459d6f-8dcb-4a40-a13d-4282099b8eb1" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="130" alt="Cisco - Networking Basics"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/f751bbf4-ccf4-42c1-8cee-8ca4403ff145" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="130" alt="Cisco - Ethical Hacker"/>
+  </a>
 
 </div>
 
