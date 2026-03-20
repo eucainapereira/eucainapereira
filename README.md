@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Animated header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:58a6ff&height=200&section=header&text=Cainã%20Pereira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Infraestrutura&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:58a6ff&height=200&section=header&text=Cainã%20Pereira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20DevSecOps%20%7C%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
   <!-- Typing animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+o+Cainã!+👋;Apaixonado+por+Cloud+%26+DevOps+☁️;Explorando+Docker+%2B+Kubernetes+🐳;Sempre+aprendendo+algo+novo+🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Olá%2C+sou+o+Cainã!+👋;Apaixonado+por+Tecnologia,+Internet+e+segurança%20digital+💻;Explorando+AWS+%2B+Cibersegurança+🛡️;Sempre+aprendendo+algo+novo+🚀)](https://git.io/typing-svg)
 
 </div>
 
