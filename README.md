@@ -83,12 +83,8 @@ contato:     "linkedin.com/in/eucainapereira"
 ---
 
 ## 🚀 Projetos em Destaque
-
-<div align="center">
-
-  [![cloud-docker-kubernetes-labs](https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=cloud-docker-kubernetes-labs&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/eucainapereira/cloud-docker-kubernetes-labs)
-
-</div>
+[![terra-ec2-manager](https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=terra-ec2-manager&theme=github_dark)](https://github.com/eucainapereira/terra-ec2-manager)
+[![cloud-docker-kubernetes-labs](https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=cloud-docker-kubernetes-labs&theme=github_dark)](https://github.com/eucainapereira/cloud-docker-kubernetes-labs)
 
 ---
 
