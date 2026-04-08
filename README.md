@@ -15,7 +15,7 @@
 ```yaml
 nome:        "Cainã Pereira"
 localização: "Porto Seguro, BA — Brasil 🇧🇷"
-foco:        ["Segurança da Informação", "Segurança em Cloud", "DevSecOps"]
+foco:        ["Cloud", "DevOps", "DevSecOps"]
 aprendendo:  ["AWS (Cloud Practitioner)", "IA aplicada ao desenvolvimento e à automação", "Git e GitHub"]
 contato:     "linkedin.com/in/eucainapereira"
 ```
@@ -72,8 +72,8 @@ contato:     "linkedin.com/in/eucainapereira"
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e"/>
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 </div>
 
 <div align="center">
@@ -83,9 +83,11 @@ contato:     "linkedin.com/in/eucainapereira"
 ---
 
 ## 🚀 Projetos em Destaque
-[![terra-ec2-manager](https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=terra-ec2-manager&theme=github_dark)](https://github.com/eucainapereira/terra-ec2-manager)
-[![cloud-docker-kubernetes-labs](https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=cloud-docker-kubernetes-labs&theme=github_dark)](https://github.com/eucainapereira/cloud-docker-kubernetes-labs)
 
+- **[golden-path-api](https://github.com/eucainapereira/golden-path-api)** — Plataform Engineering: Automação completa DevOps/DevSecOps (Terraform • Docker • FastAPI)
+- **[terra-ec2-manager](https://github.com/eucainapereira/terra-ec2-manager)** — Gerenciador de instâncias EC2 com Terraform
+- **[cloud-docker-kubernetes-labs](https://github.com/eucainapereira/cloud-docker-kubernetes-labs)** — Laboratório prático de Docker no AWS (EC2 + Nginx + auto-restart)
+- **[devsecops-pipeline](https://github.com/eucainapereira/devsecops-pipeline)** — Pipeline DevSecOps com GitHub Actions, Bandit, Safety, Gitleaks e Trivy - (Simulação de cenário real de produção) 
 ---
 
 ## 📈 Atividade
