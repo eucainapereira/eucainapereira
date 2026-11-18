@@ -66,56 +66,44 @@ contato:     "linkedin.com/in/eucainapereira"
 
 ## 🎓 Certifications
 
-<div align="center">
-
-  <a href="https://www.credly.com/badges/979f532d-b3e4-4240-af20-4ffc7113f97b" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Certified Cloud Practitioner"/>
-  </a>
+<p align="center">
+  <a href="https://www.credly.com/badges/979f532d-b3e4-4240-af20-4ffc7113f97b" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Certified Cloud Practitioner"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/ee8c050f-6fc6-4b19-8bee-37f7cf2a7391" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="130" alt="AWS re/Start Graduate"/>
-  </a>
+  <a href="https://www.credly.com/badges/ee8c050f-6fc6-4b19-8bee-37f7cf2a7391" target="_blank"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="130" alt="AWS re/Start Graduate"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/2f459d6f-8dcb-4a40-a13d-4282099b8eb1" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="130" alt="Cisco - Networking Basics"/>
-  </a>
+  <a href="https://www.credly.com/badges/2f459d6f-8dcb-4a40-a13d-4282099b8eb1" target="_blank"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="130" alt="Cisco - Networking Basics"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/f751bbf4-ccf4-42c1-8cee-8ca4403ff145" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="130" alt="Cisco - Ethical Hacker"/>
-  </a>
-
-</div>
+  <a href="https://www.credly.com/badges/f751bbf4-ccf4-42c1-8cee-8ca4403ff145" target="_blank"><img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="130" alt="Cisco - Ethical Hacker"/></a>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Most Used Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eucainapereira&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=238636&currStreakLabel=58a6ff" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eucainapereira&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=238636&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/eucainapereira/aws-ecs-auto-rollback"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-auto-rollback&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="aws-ecs-auto-rollback"/></a>
+  &nbsp;
+  <a href="https://github.com/eucainapereira/aws-ecs-ephemeral-environments"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-ephemeral-environments&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="aws-ecs-ephemeral-environments"/></a>
+</p>
 
-  <a href="https://github.com/eucainapereira/aws-devsecops-container-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-devsecops-container-pipeline&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-  </a>
-  <a href="https://github.com/eucainapereira/aws-ecs-auto-rollback">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-auto-rollback&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-  </a>
-  <a href="https://github.com/eucainapereira/aws-ecs-ephemeral-environments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-ephemeral-environments&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-  </a>
+<p align="center">
+  <a href="https://github.com/eucainapereira/aws-devsecops-container-pipeline"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-devsecops-container-pipeline&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="aws-devsecops-container-pipeline"/></a>
+</p>
 
-</div> 
 ---
 
 ## 📈 Atividade
