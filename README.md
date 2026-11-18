@@ -37,6 +37,17 @@ contato:     "linkedin.com/in/eucainapereira"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ALB](https://img.shields.io/badge/AWS_ALB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-E7157B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS SSM](https://img.shields.io/badge/AWS_SSM-E7157B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu&logoColor=white)
@@ -72,8 +83,8 @@ contato:     "linkedin.com/in/eucainapereira"
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e"/>
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eucainapereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucainapereira&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 </div>
 
 <div align="center">
@@ -84,10 +95,19 @@ contato:     "linkedin.com/in/eucainapereira"
 
 ## 🚀 Projetos em Destaque
 
-- **[golden-path-api](https://github.com/eucainapereira/golden-path-api)** — Plataform Engineering: Automação completa DevOps/DevSecOps (Terraform • Docker • FastAPI)
-- **[terra-ec2-manager](https://github.com/eucainapereira/terra-ec2-manager)** — Gerenciador de instâncias EC2 com Terraform
-- **[cloud-docker-kubernetes-labs](https://github.com/eucainapereira/cloud-docker-kubernetes-labs)** — Laboratório prático de Docker no AWS (EC2 + Nginx + auto-restart)
-- **[devsecops-pipeline](https://github.com/eucainapereira/devsecops-pipeline)** — Pipeline DevSecOps com GitHub Actions, Bandit, Safety, Gitleaks e Trivy - (Simulação de cenário real de produção) 
+<div align="center">
+
+  <a href="https://github.com/eucainapereira/aws-devsecops-container-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-devsecops-container-pipeline&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+  </a>
+  <a href="https://github.com/eucainapereira/aws-ecs-auto-rollback">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-auto-rollback&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+  </a>
+  <a href="https://github.com/eucainapereira/aws-ecs-ephemeral-environments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eucainapereira&repo=aws-ecs-ephemeral-environments&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+  </a>
+
+</div> 
 ---
 
 ## 📈 Atividade
