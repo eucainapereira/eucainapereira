@@ -68,6 +68,14 @@ contato:     "linkedin.com/in/eucainapereira"
 
 <div align="center">
 
+  <a href="https://www.credly.com/badges/979f532d-b3e4-4240-af20-4ffc7113f97b" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ee8c050f-6fc6-4b19-8bee-37f7cf2a7391" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="130" alt="AWS re/Start Graduate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/2f459d6f-8dcb-4a40-a13d-4282099b8eb1" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="130" alt="Cisco - Networking Basics"/>
   </a>
