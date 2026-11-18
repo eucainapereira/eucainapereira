@@ -16,7 +16,7 @@
 nome:        "Cainã Pereira"
 localização: "Porto Seguro, BA — Brasil 🇧🇷"
 foco:        ["Cloud", "DevOps", "DevSecOps"]
-aprendendo:  ["AWS na prática", "IA aplicada ao desenvolvimento e à automação", "Android Platform Engineer (AOSP)"]
+aprendendo:  ["AWS na prática", "IA aplicada ao desenvolvimento e à automação"]
 contato:     "linkedin.com/in/eucainapereira"
 ```
 
